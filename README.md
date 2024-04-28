@@ -23,3 +23,7 @@
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-black.svg?&style=flat&logo=TELEGRAM&logoColor=blue)](https://t.me/Nina_Karlova)&nbsp;
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-black.svg?&style=flat&logo=INSTAGRAM&logoColor=darkred)](https://www.instagram.com/crazy_squirrel.carlove)
 [![VKONTAKTE](https://img.shields.io/badge/VKONTAKTE-black.svg?&style=flat&logo=Vk&logoColor=3176F9)](https://vk.com/n.karlova)&nbsp;
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nina2301&show_icons=true)](https://github.com/Nina2301/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nina2301&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6&hide=dockerfile,css,shell,procfile)](https://github.com/Nina2301/github-readme-stats)
+
