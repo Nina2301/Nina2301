@@ -1,5 +1,5 @@
-<p align="center"><b>Hi 👋, my name is Nina</b> </p>
-<p align="center"><b>I'm a beginner Python developer</b> </p>
+## <p align="center"><b>Hi 👋, my name is Nina</b> </p>
+## <p align="center"><b>I'm a beginner Python developer</b> </p>
 
 <p align="center"><img src="https://github.com/Nina2301/Nina2301/blob/main/assets/scale_1200.png"  /></p>
 
