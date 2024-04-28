@@ -19,4 +19,7 @@
 ![Html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
 
-Follow Me
+## Follow me:
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-black.svg?&style=flat&logo=TELEGRAM&logoColor=blue)](https://t.me/Nina_Karlova)&nbsp;
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-black.svg?&style=flat&logo=INSTAGRAM&logoColor=darkred)](https://www.instagram.com/crazy_squirrel.carlove)
+[![VKONTAKTE](https://img.shields.io/badge/VKONTAKTE-black.svg?&style=flat&logo=Vk&logoColor=3176F9)](https://vk.com/n.karlova)&nbsp;
